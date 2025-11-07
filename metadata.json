@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Aura AI Voice & Visual Assistant",
+  "description": "Experience real-time voice chat with 3D visuals that react to your conversation, bringing AI interaction to life.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
